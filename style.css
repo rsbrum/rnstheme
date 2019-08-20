@@ -1,0 +1,57 @@
+/*
+Theme Name: Company
+Author: Robson Brum  -  rnsbrum@gmail.com
+*/
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./assets/font/Quicksand-Regular.ttf');
+}
+
+body, html {
+    font-family: 'Quicksand';
+    letter-spacing: 1px;
+    height: 100%;
+    width: 100%;
+}
+#container {
+    height: 100%;
+    width: 100%;
+}
+
+li a {
+    color: white;
+}
+.form-inp {
+    border-bottom: 1px solid black;
+border-top: none;
+border-left: none;
+border-right: none;
+padding-bottom: 10px;
+width:100%;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  .header-scrolled {
+    background: rgb(6, 137, 69);
+    position: fixed;
+    top: 0;
+    z-index: 1019;
+    height: 55px;
+    width: 100%;
+    transition: 1s;
+
+}
+
+.header-top {
+    background: rgba(0,0,0,0.0) !important; 
+    width: 100%;
+    position: absolute;
+    transition: 1s;
+    border-bottom: 1px solid rgba(0,0,0,0.1)
+}
