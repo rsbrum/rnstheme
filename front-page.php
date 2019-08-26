@@ -5,8 +5,8 @@
              <div class="container-fluid h-100" style="color: white;">
                 <div class="row  h-100 d-flex">
                     <div class="col-12 m-auto text-center">                        
-                        <h1 style="font-size: 66px;" class="mt-5">Produtos digitais e inovacão!</h1>
-                        <p class="mt-2" style="border-bottom: 3px solid white; width: 200px; margin: auto; font-size: 14px;">Trabalhe conosco</p>
+                        <h1 style="font-size: 66px;" class="mt-5">Produtos Digitais e Inovacão!</h1>
+                        <p class="mt-2" style="border-bottom: 3px solid white; width: 200px; margin: auto; font-size: 14px;">Trabalhe Conosco</p>
                     </div>
 
                 </div>
@@ -21,7 +21,7 @@
             <div class="container h-100">
                 <div class="row ">
                     <div class="col-12 mt-5 text-center">
-                        <h1>Soluções para o seu problema</h1>
+                        <h1>Soluções Para o Seu Problema</h1>
                     </div>
                 </div>
                 <div class="row mt-5">
@@ -86,15 +86,15 @@
                             </div>
                             
                             <div>
-                                <p class="font-weight-bold d-block mt-2">Software Feito sob medida</p>
+                                <p class="font-weight-bold d-block mt-2">Software Feito sob Medida</p>
                             </div>
                         </div>                     
                     </div>
 
                 <div class="row mt-1 mt-sm-1 mt-md-1 mt-lg-5">
                     <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                        <h2 class="mt-1 mt-sm-1 mt-md-1 mt-lg-5">Design responsivo e controle de qualidade</h2>
-                        <p class="mt-3">Criamos soluções especificas para o seu problema, com um planejamento pragmatico e focado em resultados</p>
+                        <h2 class="mt-1 mt-sm-1 mt-md-1 mt-lg-5">Design Responsivo e Controle de Qualidade</h2>
+                        <p class="mt-3">Criamos soluções específicas para o seu problema, com um planejamento pragmático e focado em resultados</p>
                     </div>
                     <div   class="col-12 col-sm-12 col-md-12 col-lg-6">
                         <img   class="m-auto img-fluid mt-5" src="<?php echo get_template_directory_uri() . "/./assets/images/bg6.png" ?>" alt="">
@@ -111,7 +111,7 @@
             <div class="container h-100 text-center">
                 <div class="row mt-1 mt-sm-1 mt-md-1 mt-lg-3">
                     <div class="col-12  text-center">
-                        <h1>O nosso metodo</h1>
+                        <h1>Nosso Método</h1>
                     </div>
                 </div>
 
@@ -147,7 +147,7 @@
             <div  class="container">
                 <div class="row mt-3">
                     <div class="col-12 text-center">
-                        <h1>Entre em contato!</h1>
+                        <h1>Entre em Contato!</h1>
                     </div>
                 </div>
 
@@ -161,6 +161,7 @@
                 <div class="row mb-3">
                     <div class="col-12 text-center">
                         <h2>ou</h2>
+                        <br/>
                     </div>
                 </div>
 
@@ -181,7 +182,7 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-6 mt-3">
                         <p>Telefone</p>
-                        <input placeholder="99665585" class="form-inp"type="text">
+                        <input placeholder="(xx)xxxxx-xxxx" data-mask="(00) 0000-0000" data-mask-selectonfocus="true" class="form-inp"type="text">
                     </div>
                 </div>
 

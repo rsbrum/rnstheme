@@ -20,7 +20,7 @@
             <div class="col-6 d-none d-sm-none d-md-none d-lg-block" style="letter-spacing: 1px;">
                 <ul class="nav justify-content-center mt-2 mr-3" style="float: right; font-size: 12px;">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">INICIO</a>
+                        <a class="nav-link" href="#">INÍCIO</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">SOBRE</a>
